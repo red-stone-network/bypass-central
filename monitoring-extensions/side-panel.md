@@ -1,5 +1,5 @@
 # SideTracked Bypass
-## THIS MIGHT NOT WORK IN CHROME VERSIONS AFTER 111! 
+## THIS MIGHT NOT WORK IN CHROME VERSIONS AFTER 111!
 ## DOES NOT WORK IN VERSIONS BEFORE 106
 
 1. Go to chrome://flags
@@ -15,3 +15,4 @@ to avoid automatic updates screwing you over.
 
 ###### Tested in 110.0.5481.181, with GoGuardian installed
 ###### Discovered by LukasExists
+###### TODO: get someone to test this in v111
