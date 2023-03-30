@@ -1,6 +1,10 @@
-# Bypass Central
-#### BY REDSTONE NETWORK
-Your one-stop shop for Chromebook bypasses.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91223726/228726047-4f8a5030-9f13-4ea2-89c9-5dd6f2f0cd56.png" width="150x">
+</p>
+
+<h1 align="center">BYPASS CENTRAL</h1>
+<h4 align="center">BY REDSTONE NETWORK</h4>
+<p align="center">Your one-stop shop for Chromebook bypasses.</p>
 
 ## CHROMEBOOKS
 Chromebook-specific bypasses & exploits.
