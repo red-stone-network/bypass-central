@@ -8,6 +8,9 @@ Chromebook-specific bypasses & exploits.
  ### CAUB
 [How to Use](https://github.com/red-stone-network/bypass-central/blob/main/chromebooks/caub.md) 
  | Discovered by Catakang#0987
+ 
+ ### DOWNGRADE YOUR CHROMEBOOK
+[How-to](https://github.com/red-stone-network/bypass-central/blob/main/chromebooks/downgrade.md) 
 
 ## MONITORING EXTENSIONS
 Things like GoGuardian, Lightspeed Filter, etc.
@@ -18,4 +21,4 @@ Things like GoGuardian, Lightspeed Filter, etc.
  
 ### LTBEEF
 [How to Use](https://github.com/red-stone-network/bypass-central/blob/main/monitoring-extensions/LTBEEF.md)
- | Discovered by Bypassi
+ | Discovered by Bypassi#7037
