@@ -1,6 +1,7 @@
 # LTBEEF
 #### Discovered by Bypassi#7037
 #### DNS servers hosted by The Greatest Giant#0110
+#### This exploit has been patched in later versions of 102, and 106+
 LTBEEF is an exploit which abuses API endpoints within the Google Chrome webstore.  
  
 There are several vesions of this exploit you can use, here are the 2 most common versions:
