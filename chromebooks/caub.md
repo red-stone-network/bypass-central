@@ -16,6 +16,6 @@ This exploit keeps your chromebook downgraded (or on the current version) withou
 11. Import the newly downloaded file
 
 **Extra notes**
-- Your chromebook will no longer automatically update. (as long as you are on a wifi that you used caub on)
-- Be careful not to stay on a wifi for too long without using caub on it, otherwise you might update.
-- We cannot guarantee that this will work on every wifi
+- Your chromebook will no longer automatically update, as long as you are on a wifi that you used CAUB on.
+- Be careful not to stay on a WIFI connection for too long without using CAUB on it, otherwise you might update.
+- This may not work in future updates, or on all WIFI connectiosn
