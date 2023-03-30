@@ -10,19 +10,27 @@
 Chromebook-specific bypasses & exploits.
 
  ### CAUB
+ Chrome Automatic Update Blocker
+ 
 [How to Use](https://github.com/red-stone-network/bypass-central/blob/main/chromebooks/caub.md) 
  | Discovered by Catakang#0987
  
  ### DOWNGRADE YOUR CHROMEBOOK
+ Allows you to use patched exploits (ex. LTBEEF or SideTracked
+ 
 [How-to](https://github.com/red-stone-network/bypass-central/blob/main/chromebooks/downgrade.md) 
 
 ## MONITORING EXTENSIONS
 Things like GoGuardian, Lightspeed Filter, etc.
 
 ### SIDETRACKED
+Side panel on your browser - untrackable and invisible.
+
 [How to Use](https://github.com/red-stone-network/bypass-central/blob/main/monitoring-extensions/side-panel.md)
  | [Discovered by LukasExists](https://github.com/lukasexists)
  
 ### LTBEEF
+Disable monitoring extensions.
+
 [How to Use](https://github.com/red-stone-network/bypass-central/blob/main/monitoring-extensions/LTBEEF.md)
  | Discovered by Bypassi#7037
