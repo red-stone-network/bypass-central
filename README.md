@@ -16,7 +16,7 @@ Chromebook-specific bypasses & exploits.
  | Discovered by Catakang#0987
  
  ### DOWNGRADE YOUR CHROMEBOOK
- Allows you to use patched exploits (ex. LTBEEF or SideTracked
+ Allows you to use patched exploits (ex. LTBEEF or SideTracked)
  
 [How-to](https://github.com/red-stone-network/bypass-central/blob/main/chromebooks/downgrade.md) 
 
