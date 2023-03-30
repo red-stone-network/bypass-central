@@ -10,5 +10,8 @@
 6. Click on the dropdown and select "Webview"
 7. Have fun!
 
+I also suggest you use [CAUB](https://github.com/red-stone-network/bypass-central/blob/main/chromebooks/caub.md)
+to avoid automatic updates screwing you over.
+
 ###### Tested in 110.0.5481.181, with GoGuardian installed
 ###### Discovered by LukasExists
