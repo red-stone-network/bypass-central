@@ -1,6 +1,6 @@
 # Side panel webview GoGuardian / Lightspeed / Monitoring extension bypass 
 ## THIS MIGHT NOT WORK IN CHROME VERSIONS AFTER 111! 
-## DOES NOT WORK IN VERSIONS BEFORE 108
+## DOES NOT WORK IN VERSIONS BEFORE 106
 
 1. Go to chrome://flags
 2. Search "webview"
