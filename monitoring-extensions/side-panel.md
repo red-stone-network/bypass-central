@@ -1,4 +1,4 @@
-# Side panel webview GoGuardian / Lightspeed / Monitoring extension bypass 
+# SideTracked Bypass
 ## THIS MIGHT NOT WORK IN CHROME VERSIONS AFTER 111! 
 ## DOES NOT WORK IN VERSIONS BEFORE 106
 
